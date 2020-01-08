@@ -14,3 +14,5 @@ class Dog
   end 
     
 end 
+
+jack = Dog.new("Jack", "G Shep")
