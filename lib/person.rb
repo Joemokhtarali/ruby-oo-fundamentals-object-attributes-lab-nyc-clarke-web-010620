@@ -14,3 +14,5 @@ class Person
   end 
 
 end 
+
+joe = Person.new("Joe", "Student")
