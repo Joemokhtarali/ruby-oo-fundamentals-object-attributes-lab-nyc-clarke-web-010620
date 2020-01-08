@@ -15,4 +15,3 @@ class Person
 
 end 
 
-joe = Person.new("Joe", "Student")
